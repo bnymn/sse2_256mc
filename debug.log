@@ -1,0 +1,6 @@
+c := 189;
+err := 0;
+P := 2^256 - c;
+
+a := 0x01578cd504ebb6bc0291f2a05d28395cfffffffffffffffefffffffffffffffe;
+b := 0x187a6112f83f1f6c0ccb6cc9de5dd63cfffffffffffffffefffffffffffffffe;
